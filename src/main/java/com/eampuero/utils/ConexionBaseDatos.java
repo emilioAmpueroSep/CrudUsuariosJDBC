@@ -8,7 +8,7 @@ import java.sql.SQLException;
 public class ConexionBaseDatos {
     private static String url = "jdbc:mysql://localhost:3306/java_curso?serverTimeZone=America/Santiago";
     private static String username = "root";
-    private static String password = "emilio1990";
+    private static String password = "qwerty";
     private static BasicDataSource pool;
 
     public static BasicDataSource getInstance() {
